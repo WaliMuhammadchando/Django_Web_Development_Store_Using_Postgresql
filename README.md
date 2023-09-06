@@ -1,4 +1,4 @@
-## Project Title: Django Web Development Store Using PostgreSQL
+## Django Web Development Store Using PostgreSQL
 
 ### Description
 
