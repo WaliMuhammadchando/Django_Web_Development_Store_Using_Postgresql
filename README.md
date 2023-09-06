@@ -29,7 +29,7 @@ Welcome to the **Django Web Development Store** project! This repository contain
 - **Django:** The core web framework for developing the application.
 - **PostgreSQL:** The database system for storing and retrieving data.
 - **HTML, CSS, and JavaScript:** Front-end technologies for creating a responsive and user-friendly interface.
-- **Payment Gateway API** (e.g., Stripe or PayPal): Integration for handling payments securely.
+- **Payment Gateway API** (e.g., HBL or UBL): Integration for handling payments securely.
 - **Django Rest Framework (DRF):** Building RESTful APIs for frontend-backend communication.
 - **Git:** Version control system for collaborative development.
 
