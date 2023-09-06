@@ -47,10 +47,11 @@ This project is open-source and is released under the **MIT License**.
 
 #### Author
 
-[Your Name or GitHub Username]
+[Wali Muhammad Data Analyst]
 
 #### Contact
 
-[Your Contact Information]
+[vti.cbt.118@gmail.com]
+[+92 3453903308]
 
 Start building your **Django web store** using **PostgreSQL** today! We hope this project helps you learn, create, and deploy your e-commerce application effectively.
